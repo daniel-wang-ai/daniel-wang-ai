@@ -23,7 +23,7 @@
 *   **ML / DL & LLMs:** PyTorch, vLLM, Hugging Face Transformers, PEFT, QLoRA, CatBoost, Scikit-learn
 *   **RAG & Search:** Qdrant, BM25, RRF, Cross-Encoder Reranking, Query Rewriting, Hybrid Chunking
 *   **AI Agents & Protocols:** LangGraph, LangChain, Multi-Step Agentic Workflows, Function/Tool Calling, MCP, FastMCP
-*   **Infrastructure & MLOps:** FastAPI, Docker, Kubernetes (K8s), Celery, Redis, ClearML, Infow, Airflow, Langfuse, Ragas, OpenTelemetry
+*   **Infrastructure & MLOps:** FastAPI, Docker, Kubernetes (K8s), Celery, Redis, ClearML, MLflow, Airflow, Langfuse, Ragas, OpenTelemetry
 
 ---
 
